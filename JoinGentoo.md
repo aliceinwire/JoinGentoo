@@ -64,8 +64,11 @@ Bugs
 ------
 
 - Contributing in **Bugzilla**
-- - Good response, Simple and efficent. 
+Good response, Simple and efficent. You don't have to lose time writing hundred of mail!
+
 - Bugday
+http://bugday.gentoo.org/ 
+next bugday: 2013/November/2
 
 ---
 
