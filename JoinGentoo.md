@@ -107,13 +107,6 @@ Install Gentoo!
 
 <img src="image/lPcWwAv.gif" alt="Install" style="width: 600px;"/>
 
-You have other choice?
----------
-
-- Yes, you have!
-
-Funtoo, LFS
-
 ---
 
 Question?
