@@ -66,6 +66,7 @@ Bugs
 - Contributing in **Bugzilla**
 Good response, Simple and efficent. You don't have to lose time writing hundred of mail!
 
+<img src="image/1-300x124.png" alt="Bugday" />
 - Bugday
 http://bugday.gentoo.org/ 
 next bugday: 2013/November/2
