@@ -10,7 +10,7 @@ Why Gentoo works
 - Good Support
 - You can prioritize in coding and enjoing it!
 - Made by developers for developers
-- "teach a man to fish" philosophy
+- "teach a man how to fish" philosophy
 - flexibility  
 You can control which features of a given package are enabled and consequently how many dependencies get pulled in.  
 - Stable  
