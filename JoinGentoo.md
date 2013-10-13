@@ -11,10 +11,10 @@ Why Gentoo works
 - You can prioritize in coding and enjoing it!
 - Made by developers for developers
 - "teach a man to fish" philosophy
-- flexibility 
-You can control which features of a given package are enabled and consequently how many dependencies get pulled in.
-- Stable
-Also if most of the package is more updated than in other binary distribution is same good in stability!
+- flexibility  
+You can control which features of a given package are enabled and consequently how many dependencies get pulled in.  
+- Stable  
+Also if most of the package is more updated than in other binary distribution is same good in stability!  
 
 ---
 
@@ -26,11 +26,10 @@ Difficicult?!?
 - http://wiki.gentoo.org/wiki/Installation
 - http://wiki.gentoo.org/wiki/Complete_Handbook
 
-**You are already learning how to use, maintain and *contribute*!**
-
-- you always have the option of testing it before in a virtual machine
-(virualbox, kvm and BHyVe?) is your friend
-
+**You are already learning how to use, maintain and *contribute*!**  
+  
+- you always have the option of testing it before in a virtual machine or Containers  
+(virualbox, kvm, xen, LXC and BHyVe?) is your friend
 
 ---
 
@@ -63,14 +62,14 @@ Community
 Bugs
 ------
 
-- Contributing in **Bugzilla**
+- Contributing in **Bugzilla**  
 Good response, Simple and efficent. You don't have to lose time writing hundred of mail!
 
 <img src="image/1-300x124.png" alt="Bugday" />
-- Bugday
-http://bugday.gentoo.org/ 
-next bugday: 2013/November/2
-
+- Bugday  
+http://bugday.gentoo.org/  
+next bugday: 2013/November/2  
+Bugday is a monthly online event that takes place every first Saturday of every month  in #gentoo-bugs in the Freenode network.
 ---
 
 Package Maintenance
