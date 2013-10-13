@@ -11,8 +11,10 @@ Why Gentoo works
 - You can prioritize in coding and enjoing it!
 - Made by developers for developers
 - "teach a man to fish" philosophy
-- flexibility
+- flexibility 
+You can control which features of a given package are enabled and consequently how many dependencies get pulled in.
 - Stable
+Also if most of the package is more updated than in other binary distribution is same good in stability!
 
 ---
 
@@ -61,9 +63,9 @@ Community
 Bugs
 ------
 
-- Contributing in Bugzilla
+- Contributing in **Bugzilla**
+- - Good response, Simple and efficent. 
 - Bugday
-- 
 
 ---
 
@@ -71,7 +73,8 @@ Package Maintenance
 -------
 
 - Report new packages and version bumps at our bugzilla.
-- 
+- Make your own Layman repository on github! I did it and is amazing!
+
 
 ---
 
@@ -100,6 +103,13 @@ Install Gentoo!
 ---------
 
 <img src="image/lPcWwAv.gif" alt="Install" style="width: 600px;"/>
+
+You have other choice?
+---------
+
+- Yes, you have!
+
+Funtoo, LFS
 
 ---
 
