@@ -12,6 +12,7 @@ Why Gentoo works
 - Made by developers for developers
 - "teach a man to fish" philosophy
 - flexibility
+- Stable
 
 ---
 
@@ -98,7 +99,7 @@ Language
 Install Gentoo!
 ---------
 
-<img src="/home/alice/presentation/JoinGentoo/image/lPcWwAv.gif" alt="Install" style="width: 600px;"/>
+<img src="image/lPcWwAv.gif" alt="Install" style="width: 600px;"/>
 
 ---
 
