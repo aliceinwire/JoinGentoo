@@ -75,7 +75,7 @@ Package Maintenance
 
 ---
 
-Staffin Needs
+Staffing Needs
 ------
 
 http://wiki.gentoo.org/wiki/Project:Gentoo/Staffing_Needs
