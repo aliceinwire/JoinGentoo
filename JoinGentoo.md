@@ -37,7 +37,7 @@ Freedom of choice
 --------
 
 - you can choose what to install and how to install it
-**You don't like some of the decision of Gentoo?** 
+**You don't like some of the decision of Gentoo?**   
 - you can make your own overlay using any of your favorite vcs (Version Control System)  
 - or fork a complete distribution (like Funtoo)
 
