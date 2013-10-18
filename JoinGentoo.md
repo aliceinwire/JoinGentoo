@@ -6,15 +6,16 @@ How to join Gentoo and why
 Why Gentoo works
 ---------
 
-- Easy to contribute
-- Good Support
+**Code and Community**  
 - You can prioritize in coding and enjoing it!
-- Made by developers for developers
-- "teach a man how to fish" philosophy
+- Made by developers for developersi (proven-working toolchain and all developement package by default, and good support for getting live package)
+- Stands out in system that need performance (you can control compilation flag of every package)
+- "teach a man how to fish" philosophy (you are the controller of your machine and also the installation process is performed by hand)
 - flexibility  
 You can control which features of a given package are enabled and consequently how many dependencies get pulled in.  
 - Stable  
-Also if most of the package is more updated than in other binary distribution is same good in stability!  
+Also if most of the package is more updated than in other binary distribution is same good in stability! 
+- Gentoo provide help and tools but the last decision is always your
 
 ---
 
@@ -46,6 +47,7 @@ Freedom of choice
 How to contribute
 --------
 
+*Easy to contribute*  
 - Community
 - Bugs
 - Package Maintenance
@@ -55,6 +57,7 @@ How to contribute
 Community
 -------
 
+*Good and Fast Support*  
 - Forum
 - IRC Channel
 - Mailing lists
