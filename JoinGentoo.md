@@ -61,7 +61,7 @@ Community
 - Forum  
 - IRC Channel  
 - Mailing lists  
-- wiki  
+- wiki (please help with the Japanese Translation )  
 
 ---
 
