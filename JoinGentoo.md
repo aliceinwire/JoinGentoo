@@ -8,7 +8,7 @@ Why Gentoo works
 
 **Code and Community**  
 - You can prioritize in coding and enjoing it!  
-- Made by developers for developersi (proven-working toolchain and all developement package by default, and good support for getting live package)  
+- Made by developers for developers (proven-working toolchain and all developement package by default, and good support for getting live package)  
 - Stands out in system that need performance (you can control compilation flag of every package)  
 - "teach a man how to fish" philosophy (you are the controller of your machine and also the installation process is performed by hand)  
 - flexibility    
@@ -41,6 +41,7 @@ Freedom of choice
 **You don't like some of the decision of Gentoo?**   
 - you can make your own overlay using any of your favorite vcs (Version Control System)  
 - or fork a complete distribution (like Funtoo)  
+http://funtoo.org
 
 ---
 
@@ -82,7 +83,8 @@ Package Maintenance
 -------
 
 - Report new packages and version bumps at our bugzilla.  
-- Make your own Layman repository on github! I did it and is amazing!  
+- Make your own Layman repository on github! 
+I did it and is amazing!  
 
 
 ---
@@ -91,6 +93,9 @@ Staffing Needs
 ------
 
 http://wiki.gentoo.org/wiki/Project:Gentoo/Staffing_Needs
+
+.qr: 450|http://wiki.gentoo.org/wiki/Project:Gentoo/Staffing_Needs
+
 
 ---
 
@@ -122,8 +127,12 @@ Question?
 
 Slide Url:
 ========
-- https://github.com/aliceinwire/JoinGentoo
+- https://github.com/aliceinwire/JoinGentoo  
+*qr-code because of time*  
+  
+.qr: 450|https://github.com/aliceinwire/JoinGentoo
 
+---
 My Email:
 =========
 - alice.ferrazzi@gmail.com
