@@ -43,6 +43,7 @@ Freedom of choice
 - or fork a complete distribution (like Funtoo)  
 http://funtoo.org
 
+<img src="image/tumblr_mmb400NRWq1qiyhkqo1_1280.jpg" alt="Bugday" />
 ---
 
 How to contribute
@@ -94,8 +95,6 @@ Staffing Needs
 
 http://wiki.gentoo.org/wiki/Project:Gentoo/Staffing_Needs
 
-.qr: 450|http://wiki.gentoo.org/wiki/Project:Gentoo/Staffing_Needs
-
 
 ---
 
@@ -127,10 +126,8 @@ Question?
 
 Slide Url:
 ========
+
 - https://github.com/aliceinwire/JoinGentoo  
-*qr-code because of time*  
-  
-.qr: 450|https://github.com/aliceinwire/JoinGentoo
 
 ---
 My Email:
