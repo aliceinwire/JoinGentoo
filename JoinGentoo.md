@@ -43,7 +43,8 @@ Freedom of choice
 - or fork a complete distribution (like Funtoo)  
 http://funtoo.org
 
-<img src="image/tumblr_mmb400NRWq1qiyhkqo1_1280.jpg" alt="Bugday" />
+<img src="image/tumblr_mmb400NRWq1qiyhkqo1_1280.jpg" alt="Bugday" style="width: 400px;" />  
+
 ---
 
 How to contribute
